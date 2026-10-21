@@ -5,3 +5,11 @@ THIS IS AN CONTACT MANAGER APP IN ANDROID .
 
 LANGUAGE : JAVA . 
 DATABASE : SQLLite
+
+JDK DOWNLOAD LINK:
+https://www.oracle.com/java/technologies/downloads/?er=221886
+
+ANDROID STUDIO DOWNLOAD LINK : 
+https://developer.android.com/studio?hl=vi
+
+ADD PATH TO SYSTEM ENVIRONMENT VARIABLE
