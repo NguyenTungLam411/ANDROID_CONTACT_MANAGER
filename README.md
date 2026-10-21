@@ -13,3 +13,6 @@ ANDROID STUDIO DOWNLOAD LINK :
 https://developer.android.com/studio?hl=vi
 
 ADD PATH TO SYSTEM ENVIRONMENT VARIABLE
+
+EXTRA INSTRUCTION LINK :
+https://colab.research.google.com/drive/1FAL-TmppqvJ0c_ycdo_TTi-l_UiKnKU4?usp=sharing
